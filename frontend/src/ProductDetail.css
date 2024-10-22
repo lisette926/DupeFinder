@@ -1,0 +1,18 @@
+.card-image {
+    height: 300px;
+    width: 100%; 
+    object-fit: contain;
+  }
+  
+  .mdb-card {
+    border-radius: 10px; /* Optional: adds rounded corners */
+  }
+  
+  .mdb-card-body {
+    padding: 20px; /* Optional: adjust padding for card body */
+  }
+  
+  .text-center {
+    text-align: center; /* Center align text in the container */
+  }
+  
