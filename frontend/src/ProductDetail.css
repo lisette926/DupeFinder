@@ -5,14 +5,14 @@
   }
   
   .mdb-card {
-    border-radius: 10px; /* Optional: adds rounded corners */
+    border-radius: 10px; 
   }
   
   .mdb-card-body {
-    padding: 20px; /* Optional: adjust padding for card body */
+    padding: 20px; 
   }
   
   .text-center {
-    text-align: center; /* Center align text in the container */
+    text-align: center; 
   }
   
